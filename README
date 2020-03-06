@@ -9,3 +9,5 @@
 
 ####MERGE###########
 Merges different branches. Very useful tool to consolidate the changes from multiple branches into master
+
+- A fast forward merge happens when the target branch is merged from the current one and there are no changes to the current since then.
