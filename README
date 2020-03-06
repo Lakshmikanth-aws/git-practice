@@ -4,6 +4,8 @@
 # git log - provides details of commts done
 # git commit -m - is for messages 
 # git checkout -b -- Creates a new branch and points to it
+# git list - lists all branches
+# git checkout - checkout from a branch (Updates HEAD)
 Whats HEAD?
 	HEAD is reference to the branch that is currently active.
 	you can check by looking at git log
