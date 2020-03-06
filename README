@@ -3,3 +3,5 @@
 # git status - status of GIT
 # git log - provides details of commts done
 # git commit -m - is for messages 
+# git branch -c - creates a branch
+# git checkout - checkout to any reqd branch
