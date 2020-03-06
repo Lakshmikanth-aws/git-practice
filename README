@@ -1,6 +1,6 @@
 # Practice for GIT repository creation for learning GIT
-# GIT commit - commits
-# git status - status of GIT
+# GIT commit - commits the changes
+# git status -status of GIT
 # git log - provides details of commts done
 # git commit -m - is for messages 
 -Git checkout - Checkout branch. Updates HEAD and apply changes to working directory
@@ -11,3 +11,4 @@
 Merges different branches. Very useful tool to consolidate the changes from multiple branches into master
 
 - A fast forward merge happens when the target branch is merged from the current one and there are no changes to the current since then.
+
