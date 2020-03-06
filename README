@@ -6,6 +6,9 @@
 # git checkout -b -- Creates a new branch and points to it
 # git list - lists all branches
 # git checkout - checkout from a branch (Updates HEAD)
+-git stash - Applies the changes to the current Working directory
+-git stash list - Lists the stashes
+- git stash pop - apply Stashed changes to WIP directory
 Whats HEAD?
 	HEAD is reference to the branch that is currently active.
 	you can check by looking at git log
