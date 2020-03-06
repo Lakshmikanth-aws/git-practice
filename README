@@ -5,3 +5,7 @@
 # git commit -m - is for messages 
 -Git checkout - Checkout branch. Updates HEAD and apply changes to working directory
 -Git merge - Merges different branches of GIT
+
+
+####MERGE###########
+Merges different branches. Very useful tool to consolidate the changes from multiple branches into master
