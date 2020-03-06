@@ -1,3 +1,5 @@
 # Practice for GIT repository creation for learning GIT
 # GIT commit - commits
 # git status - status of GIT
+# git log - provides details of commts done
+# git commit -m - is for messages 
