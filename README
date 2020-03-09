@@ -2,16 +2,11 @@
 # GIT commit - commits
 # git log - provides details of commts done
 # git commit -m - is for messages 
-<<<<<<< HEAD
 # git branch -c - creates a branch
-# git checkout - checkout to any reqd branch
-=======
 # git checkout -b -- Creates a new branch and points to it
 # git list - lists all branches
 # git checkout - checkout from a branch (Updates HEAD)
 Whats HEAD?
-	HEAD is reference to the branch that is currently active.
-	you can check by looking at git log
->>>>>>> new-branch
+HEAD is reference to the branch that is currently active.
 git Log master..new-branch - Git log since the branc was created
 git log --oneline --graph --oneline - This is to display commits and merges with relationships in GIT console
