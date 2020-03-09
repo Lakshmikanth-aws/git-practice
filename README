@@ -20,6 +20,8 @@
 # git remote add <remote> <url>: Add remote at <url>
 # git remote -v : List remote repositories
 # git push -u <remote> <branch> : Push <branch> to <remote>, and set default upstream for <branch>
+# git fetch : Fetches from remote branch URL and displays the changes before merging
+# git Pull : Fetches the changes from remote and merges it with master
 
 Whats HEAD?
 HEAD is reference to the branch that is currently active.
