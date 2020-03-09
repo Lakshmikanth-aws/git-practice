@@ -17,6 +17,9 @@
 # git stash - Applies the changes to the current Working directory
 # git stash list - Lists the stashes
 # git stash pop - apply Stashed changes to WIP directory
+# git remote add <remote> <url>: Add remote at <url>
+# git remote -v : List remote repositories
+# git push -u <remote> <branch> : Push <branch> to <remote>, and set default upstream for <branch>
 
 Whats HEAD?
 HEAD is reference to the branch that is currently active.
