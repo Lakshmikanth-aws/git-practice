@@ -1,21 +1,6 @@
 # Practice for GIT repository creation for learning GIT
-<<<<<<< HEAD
-# GIT commit - commits the changes
-# git status -status of GIT
-# git Branch - List all branches
-=======
 # GIT commit - commits
-# git status - status of GIT branches
->>>>>>> merge-demo-redux
 # git log - provides details of commts done
 # git commit -m - is for messages 
--Git checkout - Checkout branch. Updates HEAD and apply changes to working directory
--Git Merge - Merges different branches of GIT. 
-
-
-
-####MERGE###########
-Merges different branches. Very useful tool to consolidate the changes from multiple branches into master
-
-- A fast forward merge happens when the target branch is merged from the current one and there are no changes to the current since then.
- - Auto merge happens when there are changes to files in 2 branches and GIT automatically reconsiles them into one set of change.This creates a new merge to current branch
+# git branch -c - creates a branch
+# git checkout - checkout to any reqd branch
