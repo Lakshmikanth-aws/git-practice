@@ -2,22 +2,24 @@
 # git log - provides details of commits done
 # git log --oneline --graph --all - Shows different branches along with commits happend
 # git log new-branch...master --oneline - Check for commits in new-branch that are different from master 
+# git log master..new-branch - Git log since the branc was created
+# git log --oneline --graph --oneline - This is to display commits and merges with relationships in GIT console
 # git commit -m - is for messages 
 # git branch -c - creates a branch
 # git branch --no-merged master - displays all the branches which arent yet merged with Master branch
 # git checkout -b -- Creates a new branch and points to it
 # git checkout - checkout from a branch (Updates HEAD)
 # Git checkout - Checkout branch. Updates HEAD and apply changes to working directory
-# Git Show - Show a single commit
+# Git Show <branch name> - Show a single commit
 # Git diff - Shows the difference between commits
 # git merge --no-commit --no-ff <branchname> - to check for changes before merger between current and deired branch
 # git list - lists all branches
-
+# git stash - Applies the changes to the current Working directory
+# git stash list - Lists the stashes
+# git stash pop - apply Stashed changes to WIP directory
 
 Whats HEAD?
 HEAD is reference to the branch that is currently active.
-git Log master..new-branch - Git log since the branc was created
-git log --oneline --graph --oneline - This is to display commits and merges with relationships in GIT console
 
 # A fast Fwd merge is done by GIT when there are changes to one branch but not in the current branch
 # An Auto merge is done by GIT when both branches have changes but GIT is able to reconcile them automatically. Commit is done to the current branch
