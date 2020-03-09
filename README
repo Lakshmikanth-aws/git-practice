@@ -26,5 +26,11 @@
 Whats HEAD?
 HEAD is reference to the branch that is currently active.
 
+MERGING?
 # A fast Fwd merge is done by GIT when there are changes to one branch but not in the current branch
 # An Auto merge is done by GIT when both branches have changes but GIT is able to reconcile them automatically. Commit is done to the current branch
+
+Whats a Remote?
+# A remote repo is hosted somewhere other than your local machine. We can add remotes with 'git remote add' , and setup tracking branches to track difference between our local and remote repositories
+
+# We push to remotes using "git push", and fetch from them using 'git fetch' . We can also fetch and merge in one command using 'git pull'
