@@ -18,4 +18,4 @@
 Merges different branches. Very useful tool to consolidate the changes from multiple branches into master
 
 - A fast forward merge happens when the target branch is merged from the current one and there are no changes to the current since then.
-
+ - Auto merge happens when there are changes to files in 2 branches and GIT automatically reconsiles them into one set of change.This creates a new merge to current branch
